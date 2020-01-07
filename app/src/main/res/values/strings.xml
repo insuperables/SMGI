@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SMGI</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_notifi">Notification</string>
+    <string name="nav_mail">Mail</string>
+</resources>
